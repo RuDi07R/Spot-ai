@@ -1,1 +1,3 @@
-# Spot-ai
+# SPOT AI
+
+Work in progress.
