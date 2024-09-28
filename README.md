@@ -21,8 +21,13 @@ Python - Follow the instructions here to install Python.
 
 Poetry - A tool for dependency management and packaging in Python. You can install it using the following command:
 ## Documentation
+
+```sh
+
 python3 -m pip install poetry
 
+
+```
 
 # Features
 Object Detection Accurately detect and identify objects in the video stream. Object Detection
